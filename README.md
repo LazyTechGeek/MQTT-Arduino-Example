@@ -1,10 +1,9 @@
 # MQTT-Arduino-Example
 MQTT Arduino Sample Code
 
-Description: Make Alexa Call People Out for Leaving the Toilet Seat Up! (Node-RED Tutorial)
+Description: Home Assistant MQTT Explained: Full Setup, How It Works & Live Examples
 
-Link to YouTube video: https://youtu.be/HoYak0LTelg
-
+Link to YouTube video: https://youtu.be/aJJj8YxK0QA
 This is the code for sample Arduino to connect to MQTT and turn on or off the built in LED.
 
 - **Full Code here**

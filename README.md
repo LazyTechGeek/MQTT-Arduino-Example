@@ -10,8 +10,6 @@ This is the code for sample Arduino to connect to MQTT and turn on or off the bu
 ```
 #include <WiFi.h>
 #include <PubSubClient.h>
-#include "secrets.h"  // Import secrets
-
 
 // Wifi details
 const char* ssid = "SSID";
